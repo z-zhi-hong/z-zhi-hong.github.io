@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Zhang Zhihong"
-  avatar           : "profile.png"
+  avatar           : "zhihong.jpg"
   bio              : "Ph.D Candidate, BBNC Tsinghua University"
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=Ut_E87AAAAAJ&hl=zh-CN&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhihong_Zhang29?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
