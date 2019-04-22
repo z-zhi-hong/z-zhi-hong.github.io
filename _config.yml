@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=Ut_E87AAAAAJ&hl=zh-CN&authuser=1"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Zhihong_Zhang29?ev=hdr_xprf"
+  researchgate     : # "https://www.researchgate.net/profile/Zhihong_Zhang29?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/zhang_zhi_hong"
+  twitter          : # "https://twitter.com/zhang_zhi_hong"
   vine             :
   weibo            :
   xing             :
