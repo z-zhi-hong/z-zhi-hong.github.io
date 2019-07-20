@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Zhang Zhihong! ###
+### Zhang Zhihong ###
 
 
 I'm currently a Ph.D Candidate at the Broadband and Digital Media Lab (BBNC), Department of Automation, Tsinghua University, advised by Prof. Jinli Suo. 
